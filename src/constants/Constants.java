@@ -4,7 +4,12 @@ public class Constants {
 	
 	public static class BirdConstants {
 		// Number of birds in the game
-		public static final int NUMBER_OF_BIRDS = 3;
+		public static final int MAX_NUMBER_OF_BIRDS = 3;
+		public static final int MAX_DESTINATION = 1000;
+		public static final int MIN_DESTINATION = 0;
+		public static final int MIN_DURATION = 1000;
+		public static final int MAX_DURATION = 1000000;
+		public static final int DEFAULT_BIRD_ID = 007;
 	}
 	
 	public static class PigConstants {
