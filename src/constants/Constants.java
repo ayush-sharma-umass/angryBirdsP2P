@@ -14,7 +14,7 @@ public class Constants {
 	
 	public static class PigConstants {
 		// Max number of pigs in the game
-		public static final int MAX_PIGS = 6;
+		public static final int NUM_PIGS = 6;
 		// Max neighbours of pigs
 		public static final int MAX_PIG_NEIGHBOURS = 2;
 	}
